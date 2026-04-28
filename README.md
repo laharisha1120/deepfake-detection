@@ -50,7 +50,7 @@ DeepfakeProject/
 
 ## ▶️ How to Run the Project
 
-1. Clone the repository: git clone https://github.com/your-username/deepfake-detection.git
+1. Clone the repository: git clone https://github.com/laharisha1120/deepfake-detection.git
 2. Install dependencies: pip install -r requirements.txt
 3. Open the notebook: DeepFake Mini Project.ipynb
 4. Run all cells step-by-step
